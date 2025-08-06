@@ -212,3 +212,5 @@ answers/**
 
 data
 data/**
+
+.DS_Store
